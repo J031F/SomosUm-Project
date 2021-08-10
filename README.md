@@ -32,7 +32,7 @@ The **Project** was developed with the following technologies:
 - [JWT-token](https://jwt.io/)
 - [Docker](https://www.docker.com/)
 - [Handlebars](https://handlebarsjs.com/)
-- [Jest](https://jestjs.io/pt-BR/)
+<!-- [Jest](https://jestjs.io/pt-BR/) --> 
 
 ---
 
